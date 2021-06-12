@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+```JS
+const me = {
+  name: "Aaron",
+  pronoun: "He/Him",
+  skills: ["JavaScript", "Node.js", "SQL"],
+  currentlyLearning: ["TypeScript"],
+  currentlyWorkingOn: ["Discord Bot", "Twitch Bot"]
+}
+```
+
 <!--
 **alima566/alima566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
