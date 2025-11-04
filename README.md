@@ -5,7 +5,7 @@ const me = {
   name: "Aaron",
   pronoun: "He/Him",
   skills: ["JavaScript", "Node.js", "SQL", "Java", "PHP", "HTML", "CSS"],
-  currentlyLearning: ["TypeScript"],
+  currentlyLearning: ["TypeScript", "Vue.js"],
   currentlyWorkingOn: ["Discord Bot", "Twitch Bot"]
 }
 ```
